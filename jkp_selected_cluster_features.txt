@@ -1,0 +1,4 @@
+'age' #Lifecycle
+'gp_at', 'ocf_at', 'sale_gr1', 'inv_gr1', 'dsale_dinv' #Profitability–Investment structure
+'netdebt_me', 'kz_index', 'z_score' #Financial fragility
+'niq_su', 'ni_inc8q' #Information environment

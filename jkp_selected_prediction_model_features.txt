@@ -1,0 +1,6 @@
+'ret_2_0', 'ret_12_0', 'ret_24_12', 'resff3_12_1' #Momentum
+'aliq_at', 'ami_126d', 'turnover_126d', 'bidaskhl_21d' #Liquidity/Frictions
+'ivol_capm_21d', 'ivol_ff3_21d', 'rvol_21d' 'beta_252d', #Risk/Volatilitye
+'gp_at', 'ocf_at', 'qmj', 'f_score' #Profitability/Quality
+'be_me', 'at_gr1', 'sale_gr1', 'capex_abn', 'me' #Value/Investment
+'netdebt_me', 'o_score', 'z_score', 'eqnetis_at' #Distress/Issuance
